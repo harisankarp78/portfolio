@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-
+url : "https://harisankarp78.github.io"
 # Features Setting
 # Turn subpages on or off
 publications: True
