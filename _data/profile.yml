@@ -1,0 +1,33 @@
+image: assets/img/smile.png
+username: Harisankar P
+description: someone who has the knowledge and skills to turn raw data into informations and insights.
+webpage: https://harisankarp78.github.io/hari/
+experience: # Remove for hiding the experience section
+  - start: 2021
+    end: 2022
+    experience : Botx Automations, Operations Analyst
+interests: # Remove for hiding the interests section
+  - Data Analysis
+  - Data Cleaning
+skills: # Remove for hiding the skills section
+  - skill: Excel2
+    values: 85 # Percent value
+  - skill: SQL
+    value: 85  # Percent value
+  
+  - skill: Excel
+    values: 85
+social:
+  email:  harisankarp68@gmail.com
+  orcid: 
+  scholar: 
+  publons: 
+  research_gate: 
+  linkedin:  # Full URL 
+  github: harisankarp78
+  
+  google_plus:
+  twitter: harisankar_pi
+  youtube:
+  facebook:
+  instagram:
