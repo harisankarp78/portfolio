@@ -1,15 +1,4 @@
-- project :
-    print: False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal: False # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url:   # Full URL
-    image:
-      path: "baby_name.png" # path: assets/project/
-      alt: "A screenshot of the portfolio page"
-    date: 05/2022 &ndash; Developing
-    title: Analyzing American Baby Name Trends
-    summary: SQL project
-    description: I used Jupyter notebook and sql for the project
-    
+
          
 - project :
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -38,7 +27,7 @@
 - project:
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url:  
+    url: https://github.com/harisankarp78/SQL-Instagram-Analysis  
     image: 
       path: "instagram-analytics.png" # path: assets/project/
     date: 08/2022 &ndash; Developing
