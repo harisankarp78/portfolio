@@ -10,8 +10,6 @@ interests: # Remove for hiding the interests section
   - Data Analysis
   - Data Cleaning
 skills: # Remove for hiding the skills section
-  - skill: Excel2
-    values: 85 # Percent value
   - skill: SQL
     value: 85  # Percent value
   
