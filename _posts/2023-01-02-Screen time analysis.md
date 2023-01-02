@@ -12,9 +12,11 @@ I have completed the first data analysis project of the new year 2023. I have an
 
 **Findings**
 
-1.Whatsapp is the most used application by the user.
-2.Most notifications come from Whatsapp.
-3.There is a close relationship between number of notifications and app usage.
+1. Whatsapp is the most used application by the user.
+2. Most notifications come from Whatsapp.
+3. There is a close relationship between number of notifications and app usage.
 
-Project Repo : [Click here](https://www.github.com/harisankarp78)
+---
+
+> Project Repo : [Click here](https://www.github.com/harisankarp78)
   
