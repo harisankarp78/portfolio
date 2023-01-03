@@ -18,5 +18,5 @@ I have completed the first data analysis project of the new year 2023. I have an
 
 ---
 
-> Project Repo : [Click here](https://www.github.com/harisankarp78)
+> Project Repo : [Click here](https://github.com/harisankarp78/7-Days-of-Data-Analysis/blob/main/Screen%20time%20analysis.ipynb)
   
