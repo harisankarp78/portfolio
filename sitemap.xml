@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://harisankar.netlify.app/</loc>
+  <lastmod>2023-01-25T15:28:10+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://harisankar.netlify.app/blog/</loc>
+  <lastmod>2023-01-25T15:28:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://harisankar.netlify.app/tags</loc>
+  <lastmod>2023-01-25T15:28:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://harisankar.netlify.app/2023/01/04/billionaire-analysis.html</loc>
+  <lastmod>2023-01-25T15:28:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://harisankar.netlify.app/2023/01/03/iphone-sales-analysis.html</loc>
+  <lastmod>2023-01-25T15:28:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://harisankar.netlify.app/2023/01/02/screen-time-analysis</loc>
+  <lastmod>2023-01-25T15:28:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://harisankar.netlify.app/2022/12/23/7-steps-of-data-analysis</loc>
+  <lastmod>2023-01-25T15:28:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://harisankar.netlify.app/2022/12/10/data-analysis</loc>
+  <lastmod>2023-01-25T15:28:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://harisankar.netlify.app/blog/page2/</loc>
+  <lastmod>2023-01-25T15:28:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://harisankar.netlify.app/2022/08/15/markdown-and-html.html</loc>
+  <lastmod>2023-01-25T15:28:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
